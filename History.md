@@ -1,3 +1,6 @@
+=== 0.11.0 / 2024-09-08
+* Add support for Ruby 3.3
+
 === 0.10.0 / 2017-06-25
 
 * Add binaries for RubyInstaller up to 2.4 in Windows gems.

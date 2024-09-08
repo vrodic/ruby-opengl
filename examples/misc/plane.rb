@@ -45,7 +45,6 @@
 
 require "gl"
 require "glut"
-require "mathn"
 
 # /*  Initialize material property, light source, and lighting model.
 # */

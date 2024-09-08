@@ -39,7 +39,7 @@
 require 'opengl'
 require 'glu'
 require 'glut'
-require 'mathn'
+
 include Gl,Glu,Glut
 
 def init

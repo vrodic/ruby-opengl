@@ -50,7 +50,6 @@
 require 'opengl'
 require 'glu'
 require 'glut'
-require 'mathn'
 include Gl,Glu,Glut
 
 StripeImageWidth =  32

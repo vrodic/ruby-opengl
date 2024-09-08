@@ -52,7 +52,6 @@ require 'opengl'
 require 'glu'
 require 'glut'
 require 'rational'
-require 'mathn'
 include Gl,Glu,Glut
 
 $spin = 0
